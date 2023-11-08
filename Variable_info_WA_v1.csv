@@ -1,13 +1,11 @@
 no,Publication,DOI,V1,V2,V3,V4,V5,V6,V7,R,S1,S2
 1,Deep learning for large scale biodiversity monitoring,https://doi.org/10.13140/RG.2.1.1051.7201,n,n,y,y,n,n,y,n,n,n
-3,Deep learning improves acoustic biodiversity monitoring and new candidate forest frog species identification (genus Platymantis) in the Philippines,https://doi.org/10.1007/s10531-020-02107-1,"n,
-n",n,y,y,p,y,y,n,n,y
+3,Deep learning improves acoustic biodiversity monitoring and new candidate forest frog species identification (genus Platymantis) in the Philippines,https://doi.org/10.1007/s10531-020-02107-1,n or y,n,y,y,p,y,y,n,n,y
 5,"Mapping Potential Plant Species Richness over Large Areas with Deep Learning, MODIS, and Species Distribution Models",https://doi.org/10.3390/rs13132490,y,n,y,y,y,y,y,n,y,y
 7,Automatic annotation of coral reefs using deep Learning,https://doi.org/10.1109/OCEANS.2016.7761105,y,n,y,y,n,y,n,n,n,y
 8,Detection and annotation of plant organs from digitised herbarium scans using deep learning,https://doi.org/10.3897/BDJ.8.e57090,y,y,y,y,y,y,y,n,y,y
 9,Sashimi: A toolkit for facilitating high-throughput organismal image segmentation using deep Learning,https://doi.org/10.1111/2041-210X.13712,y,y,y,y,p,y,y,n,y,y
-10,Deep learning for detection of bird Vocalisations,https://doi.org/10.48550/arXiv.1609.08408,"y,
-r",n,y,y,p,y,n,n,n,n
+10,Deep learning for detection of bird Vocalisations,https://doi.org/10.48550/arXiv.1609.08408,n or y,n,y,y,p,y,n,n,n,n
 12,Automatic standardized processing and identification of tropical bat calls using deep learning approaches,https://doi.org/10.1016/j.biocon.2019.108269,n,n,n,n,p,y,n,n,n,n
 13,Image-based taxonomic classification of bulk biodiversity samples using deep learning and domain adaptation,https://doi.org/10.1101/2021.12.22.473797,n,n,y,y,n,y,p,n,y,y
 14,Scene-specific convolutional neural networks for video-based biodiversity detection,https://doi.org/10.1111/2041-210X.13011,n,y,y,y,y,y,n,n,y,n
