@@ -1,4 +1,6 @@
 # Reproducibility of deep learning models in the biodiversity domain
+[![DOI](https://zenodo.org/badge/715482807.svg)](https://doi.org/10.5281/zenodo.14605015)
+
 This Repo contains the data and codes that were used to extract and analyse the reproducibility information of Deep Learning methods from publications in the Biodiversity domain
 * web_scraping.py ----> Python code that can scrape the publication information from Google Scholar with a specified query and time period (2015-2021)
 * Google_scholar_500_publications_run1.json ----> Json file containing information on 500 Biodiversity publications based on the query and time period as mentioned in the code
